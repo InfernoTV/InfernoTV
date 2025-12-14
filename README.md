@@ -1,24 +1,22 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/InfernoTV/InfernoTV/aboutme.png" width="100%" alt="About me">
+
+<div align="center"> 
+<h2> Hallo Navi !  </h2>
+  <img src="https://raw.githubusercontent.com/InfernoTV/InfernoTV/refs/heads/main/aboutme.png" width="100%" alt="About me">
+ 
 </div>
-
 <div align="center">
-
-<h2> Hello there, fellow <developers/> 👋 </h2>
-
-<img src="__GIF_ACCUEIL_A_AJOUTER_ICI__" width="300" alt="welcome gif"/>
-
 </div>
 
 ---
 
-## 👾 About me
+## About me
 
 Hi, I'm **InfernoTV**,  
-17 y.o — based in **France** 🇫🇷  
+- 17 y.o 
+- Based in **France** 🇫🇷  
 🎓 **Medical student** with a strong passion for **programming, games, and cybersecurity**.
 
-I like to explore how tech, creativity, and logic intersect — whether it's building small tools, bots, games, or experimenting with web and backend systems.
+I like to explore how tech, creativity, and logic intersect | Whether it's building small tools, bots, games, or experimenting with web and backend systems.
 
 > *"Une page du précieux Journal sera perdue."*  
 > — **Chrollo Lucifer**
@@ -30,13 +28,13 @@ or…
 
 ---
 
-## 🧠 What I do
+## What I do
 
-- 🌐 Web development  
-- 🎮 Game development  
-- ⚙️ Backend / APIs  
-- 🤖 Discord bots  
-- 🔐 Cybersecurity (learning & experimenting)
+- Web development  
+- Game development  
+- Backend / APIs  
+- [Discord bots](https://doc.m0ha.info/)  
+- Cybersecurity (learning & experimenting)
 
 **Level:** Beginner — learning by building & breaking things.
 
@@ -54,16 +52,16 @@ or…
 
 ### Engines & tools
 ![Godot](https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=godot-engine)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 
 ---
 
-## 🚧 Currently working on
+##  Currently working on
 
+- Learning **C++** from scratch and webcourses.
 - Learning **JavaScript & Python** more deeply  
-- Building **Discord bots**  
+- Building **[Discord bots](https://doc.m0ha.info/)**  
 - Experimenting with **backend APIs**  
 - Exploring **Godot** for game development  
 - Cybersecurity fundamentals & tooling
@@ -100,16 +98,14 @@ or…
 - 📧 **Email:** inferno@m0ha.com  
 
 Other projects / links:
-- https://doc.m0ha.info/
-- https://m0ha.store/
-- https://feeds.lol/infernoytv
-- https://copland-os.store/
+- [Lainy All in One Bot](https://doc.m0ha.info/)
+- [Software/Apps Marketplace](https://m0ha.store/) 
+- [Yet Another Biolink](https://feds.lol/infernoytv) 
+- [Copland OS](https://copland-os.store/) (Recreation of the OS from the famous anime Serial Experiments Lain) 
 
 ---
 
 <div align="center">
-
-<i>Anime, code, late nights & curiosity.</i>  
-<i>Happy hacking ✨</i>
-
+<i>Happy Skidding ✨</i>
+ <img src="https://raw.githubusercontent.com/InfernoTV/InfernoTV/refs/heads/main/contributions.png" width="100%" alt="Contributions">
 </div>
