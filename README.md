@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/InfernoTV/InfernoTV/aboutme.png" width="100%" alt="About me">
+</div>
+
+<div align="center">
 
 <h2> Hello there, fellow <developers/> 👋 </h2>
 
