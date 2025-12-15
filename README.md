@@ -93,7 +93,7 @@ or…
 
 ## 🌐 Links & contact
 
-- 🌍 **Website:** *(image / link à ajouter ici)*  
+- 🌍 **Website:** *(own biolink coming soon)*  
 - 🔗 **All links:** https://guns.lol/infernoytv  
 - 💬 **Discord:** `infernoytv`  
 - 📧 **Email:** inferno@m0ha.com  
