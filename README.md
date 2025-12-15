@@ -16,14 +16,15 @@ Hi, I'm **InfernoTV**,
 - Based in **France** 🇫🇷  
 🎓 **Medical student** with a strong passion for **programming, games, and cybersecurity**.
 
-I like to explore how tech, creativity, and logic intersect | Whether it's building small tools, bots, games, or experimenting with web and backend systems.
+I like to explore how tech, creativity, and logic intersect 
+Whether it's building small tools, bots, games, or experimenting with web and backend systems.
 
 > *"Une page du précieux Journal sera perdue."*  
 > — **Chrollo Lucifer**
 
 or…
 
-> *"Why are you crying, Lain? It's because you deleted yourself from everyone else's memory."*  
+> *"Why are you crying, Lain? Is it because you erased yourself from everyone's memory? But wasn't that what you wanted all along?"*  
 > — **Serial Experiments Lain**
 
 ---
