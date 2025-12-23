@@ -71,22 +71,12 @@ or…
 
 ## 📊 GitHub stats
 
-<div align="center">
+<div align="">
 
-<img src="https://github-readme-stats.vercel.app/api?username=InfernoTV&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=InfernoTV&show_icons=true&theme=dracula&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoTV&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoTV&layout=compact&theme=dracula&hide_border=true" />
 
-</div>
-
----
-
-## 😂 Random dev joke
-
-<div align="center">
-<a href="https://readme-jokes.vercel.app">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke"/>
-</a>
 </div>
 
 ---
