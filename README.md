@@ -12,7 +12,7 @@
 ## About me
 
 Hi, I'm **InfernoTV**,  
-- 17 y.o 
+- 18 y.o 
 - Based in **France** 🇫🇷  
 🎓 **Medical student** with a strong passion for **programming, games, and cybersecurity**.
 
@@ -89,9 +89,9 @@ or…
 - 📧 **Email:** inferno@m0ha.com  
 
 Other projects / links:
-- [Lainy All in One Bot](https://doc.m0ha.info/)
+- [Lainy All in One Bot](https://flamery.cc/)
 - [Software/Apps Marketplace](https://m0ha.store/) 
-- [Yet Another Biolink](https://feds.lol/infernoytv) 
+- [Yet Another Biolink](https://flamy.lol/$) 
 - [Copland OS](https://copland-os.store/) (Recreation of the OS from the famous anime Serial Experiments Lain) 
 
 ---
