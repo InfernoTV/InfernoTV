@@ -69,15 +69,15 @@ or…
 
 ---
 
-## 📊 GitHub stats
+// ## 📊 GitHub stats
 
-<div align="">
+// <div align="">
 
-<img src="https://github-readme-stats.vercel.app/api?username=InfernoTV&show_icons=true&theme=dracula&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoTV&layout=compact&theme=dracula&hide_border=true" />
+// <img src="https://github-readme-stats.vercel.app/api?username=InfernoTV&show_icons=true&theme=dracula&hide_border=true" />
+// <br/>
+// <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernoTV&layout=compact&theme=dracula&hide_border=true" />
 
-</div>
+// </div>
 
 ---
 
