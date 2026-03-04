@@ -34,7 +34,7 @@ or…
 - Web development  
 - Game development  
 - Backend / APIs  
-- [Discord bots](https://doc.m0ha.info/)  
+- [Discord bots](https://flamery.cc/)  
 - Cybersecurity (learning & experimenting)
 
 **Level:** Beginner — learning by building & breaking things.
@@ -62,7 +62,7 @@ or…
 
 - Learning **C++** from scratch and webcourses.
 - Learning **JavaScript & Python** more deeply  
-- Building **[Discord bots](https://doc.m0ha.info/)**  
+- Building **[Discord bots](https://flamery.cc/)**  
 - Experimenting with **backend APIs**  
 - Exploring **Godot** for game development  
 - Cybersecurity fundamentals & tooling
@@ -79,7 +79,7 @@ or…
 Other projects / links:
 - [Lainy All in One Bot](https://flamery.cc/)
 - [Software/Apps Marketplace](https://m0ha.store/) 
-- [Yet Another Biolink](https://flamy.lol/$) 
+- [Yet Another Biolink](https://flamy.lol/) 
 - [Copland OS](https://copland-os.store/) (Recreation of the OS from the famous anime Serial Experiments Lain) 
 
 ---
