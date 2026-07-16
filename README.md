@@ -19,14 +19,7 @@ Hi, I'm **InfernoTV**,
 I like to explore how tech, creativity, and logic intersect 
 Whether it's building small tools, bots, games, or experimenting with web and backend systems.
 
-> *"Une page du précieux Journal sera perdue."*  
-> — **Chrollo Lucifer**
-
-or…
-
-> *"Why are you crying, Lain? Is it because you erased yourself from everyone's memory? But wasn't that what you wanted all along?"*  
-> — **Serial Experiments Lain**
-
+> *"School is not a place for smart people"*  
 ---
 
 ## What I do
@@ -35,9 +28,10 @@ or…
 - Game development  
 - Backend / APIs  
 - [Discord bots](https://flamery.cc/)  
+- [BioLink Service](https://flamy.lol/)
 - Cybersecurity (learning & experimenting)
 
-**Level:** Beginner — learning by building & breaking things.
+**Level:** Intermediate
 
 ---
 
@@ -63,6 +57,7 @@ or…
 - Learning **C++** from scratch and webcourses.
 - Learning **JavaScript & Python** more deeply  
 - Building **[Discord bots](https://flamery.cc/)**  
+- Building **[BioLink Service : Flamy.lol](https://flamy.lol/)**  
 - Experimenting with **backend APIs**  
 - Exploring **Godot** for game development  
 - Cybersecurity fundamentals & tooling
@@ -71,14 +66,14 @@ or…
 
 ## 🌐 Links & contact
 
-- 🌍 **Website:** *(own biolink coming soon)*  
-- 🔗 **All links:** https://guns.lol/infernoytv  
+- 🌍 **Website:** *(https://flamy.lol/0)*  
+- 🔗 **All links:** https://flamy.lol/0  
 - 💬 **Discord:** `infernoytv`  
 - 📧 **Email:** inferno@m0ha.com  
 
 Other projects / links:
-- [Lainy All in One Bot](https://flamery.cc/)
-- [Software/Apps Marketplace](https://m0ha.store/) 
+- [Scarlet All in One Bot](https://flamery.cc/)
+- [Software/Apps Marketplace](https://m0ha.store/) (DEPRACATED)
 - [Yet Another Biolink](https://flamy.lol/) 
 - [Copland OS](https://copland-os.store/) (Recreation of the OS from the famous anime Serial Experiments Lain) 
 
