@@ -1,7 +1,7 @@
 
 <div align="center"> 
 <h2> Hallo Navi !  </h2>
-  
+  <img src="https://raw.githubusercontent.com/InfernoTV/InfernoTV/refs/heads/main/aboutme.png" width="100%" alt="About me">
  
 </div>
 <div align="center">
